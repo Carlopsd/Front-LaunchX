@@ -1,8 +1,10 @@
 # Práctica modulo 3 - CSS
 
-## Pagina web de vacunación
+## Página web de vacunación
 
-La realización de una página web en base a otra agregando los estilos correspondientes.
+La realización de una página web en base a una plantilla aplicando los diferentes estilos.
+
+Link de la páguina: https://carlopsd-vaccination.netlify.app
 
 > [Link del código de HTML]( https://github.com/Carlopsd/Front-LaunchX/blob/main/3-Modulo-css/vacunacion.html)
 
